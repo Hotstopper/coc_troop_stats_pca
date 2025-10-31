@@ -17,5 +17,7 @@ The statistics are designed such that the higher the number, the stronger the tr
 
 ## PCA
 I then applied PCA, selected the first two principal components, and plotted them on a 2D graph.
+
 The code can be found in troop.ipynb
+
 The plotted results can be found in coc_pca.png
